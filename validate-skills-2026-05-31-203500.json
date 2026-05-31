@@ -1,0 +1,348 @@
+﻿{
+    "generated_at":  "2026-05-31T20:35:04-03:00",
+    "skills_root":  "C:\\codes\\skills",
+    "total":  42,
+    "validas":  41,
+    "invalidas":  1,
+    "bom_removido":  [
+
+                     ],
+    "resultados":  [
+                       {
+                           "Name":  "maintain-activities",
+                           "Path":  "C:\\codes\\skills\\core\\planner\\maintain-activities",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "maintain-planner",
+                           "Path":  "C:\\codes\\skills\\core\\planner\\maintain-planner",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "route-skills-by-context",
+                           "Path":  "C:\\codes\\skills\\core\\router\\route-skills-by-context",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "maintain-skills",
+                           "Path":  "C:\\codes\\skills\\core\\skill_registry\\maintain-skills",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "periodic-skills-reviewer",
+                           "Path":  "C:\\codes\\skills\\core\\validator\\periodic-skills-reviewer",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "automated-test-builder",
+                           "Path":  "C:\\codes\\skills\\domains\\disciplines\\automated-test-builder",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "alembic-db-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\languages\\alembic-db-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "excel-validation-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\languages\\excel-validation-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "fastapi-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\languages\\fastapi-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "powershell-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\languages\\powershell-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "python-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\languages\\python-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "redshift-query-rules-comparator",
+                           "Path":  "C:\\codes\\skills\\domains\\languages\\redshift-query-rules-comparator",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "redshift-sql-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\languages\\redshift-sql-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "architecture-diagrammer",
+                           "Path":  "C:\\codes\\skills\\domains\\products\\architecture-diagrammer",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "presentation-designer",
+                           "Path":  "C:\\codes\\skills\\domains\\products\\presentation-designer",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "semaforo-cabecalho",
+                           "Path":  "C:\\codes\\skills\\domains\\products\\semaforo-cabecalho",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "semaforo-container-partner-pattern",
+                           "Path":  "C:\\codes\\skills\\domains\\products\\semaforo-container-partner-pattern",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "technical-writer",
+                           "Path":  "C:\\codes\\skills\\domains\\products\\technical-writer",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "ui-infographic-generator",
+                           "Path":  "C:\\codes\\skills\\domains\\products\\ui-infographic-generator",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "visual-storytelling",
+                           "Path":  "C:\\codes\\skills\\domains\\products\\visual-storytelling",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "cloudinformation-aws",
+                           "Path":  "C:\\codes\\skills\\domains\\services\\cloudinformation-aws",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "databricks-notebook-pattern",
+                           "Path":  "C:\\codes\\skills\\domains\\services\\databricks-notebook-pattern",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "syg-cloudformation-aws",
+                           "Path":  "C:\\codes\\skills\\domains\\services\\syg-cloudformation-aws",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "syg-rebates-parameterization",
+                           "Path":  "C:\\codes\\skills\\domains\\services\\syg-rebates-parameterization",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "syg-sonarcloud-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\services\\syg-sonarcloud-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "syg-unit-test-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\services\\syg-unit-test-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "syg-workflows-user-zone",
+                           "Path":  "C:\\codes\\skills\\domains\\services\\syg-workflows-user-zone",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "audit-card-pix-interest",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\audit-card-pix-interest",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "build-bank-dispute-dossier",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\build-bank-dispute-dossier",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "configure-machine-default-skill",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\configure-machine-default-skill",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "connect-github-gitlab",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\connect-github-gitlab",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "connect-secondary-machine-git",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\connect-secondary-machine-git",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "ia-gateway-specialist",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\ia-gateway-specialist",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "maintain-agents",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\maintain-agents",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "maintain-filesystem",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\maintain-filesystem",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "maintain-git",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\maintain-git",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "maintain-tickets",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\maintain-tickets",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "register-ticket-session",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\register-ticket-session",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "sci-content-flow",
+                           "Path":  "C:\\codes\\skills\\domains\\tools\\sci-content-flow",
+                           "Valid":  false,
+                           "Category":  "yaml-invalid",
+                           "Message":  "Invalid YAML in frontmatter: mapping values are not allowed here\r\n  in \"\u003cunicode string\u003e\", line 2, column 64:\r\n     ... ifact lifecycle in the workspace: draft creation, IA-based topic ... \r\n                                         ^",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "code-parquet-builder",
+                           "Path":  "C:\\codes\\skills\\generators\\code-parquet-builder",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "maintain-automations",
+                           "Path":  "C:\\codes\\skills\\generators\\skill_generator\\maintain-automations",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       },
+                       {
+                           "Name":  "sync-repositories-index",
+                           "Path":  "C:\\codes\\skills\\synchronizers\\registry_sync\\sync-repositories-index",
+                           "Valid":  true,
+                           "Category":  "ok",
+                           "Message":  "Skill is valid!",
+                           "BomFixed":  false
+                       }
+                   ]
+}
